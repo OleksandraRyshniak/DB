@@ -13,7 +13,7 @@ namespace toode
         public DateTime Lisatud { get; set; } = DateTime.Now;
         public int Kogus { get; set; }
         public float Hind { get; set; }
-        public string Pilt { get; set; }
+        public string? Pilt { get; set; }
         public int KategooriaId { get; set; }
         public Kategooria Kategooria { get; set; }
     }
@@ -21,7 +21,7 @@ namespace toode
     {
         public int Id { get; set; }
         public string Kategooria_nimetus { get; set; }
-        public string Kirjeldus { get; set; }
+        public string? Kirjeldus { get; set; }
 
         public ICollection<Toode> Tooted { get; set; }
     }

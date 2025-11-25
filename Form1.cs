@@ -26,15 +26,15 @@ namespace toode
         private void LaeTooded()
         {
             dataGridView1.DataSource = _db.Tootetabel.Include(t => t.Kategooria).Select(t => new
-                {
-                    t.Id,
-                    t.Toodenimetus,
-                    t.Kogus,
-                    t.Hind,
-                    Kategooria = t.Kategooria.Kategooria_nimetus,
-                    t.Pilt,
-                    t.Lisatud,
-                    t.KategooriaId
+            {
+                t.Id,
+                t.Toodenimetus,
+                t.Kogus,
+                t.Hind,
+                Kategooria = t.Kategooria.Kategooria_nimetus,
+                t.Pilt,
+                t.Lisatud,
+                t.KategooriaId
 
             })
             .ToList();
@@ -46,7 +46,7 @@ namespace toode
 
         string valitudPilt;
 
-        private void btnLisaPilt_Click(object sender, EventArgs e)
+        private void lisa_btn_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(txtNimetus.Text))
             {
@@ -66,7 +66,7 @@ namespace toode
             string fileName;
             if (string.IsNullOrEmpty(valitudPilt))
             {
-                fileName = "epood.png";
+                fileName = "pood.png";
             }
             else
             {
