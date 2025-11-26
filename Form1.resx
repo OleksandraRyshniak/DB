@@ -117,4 +117,394 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="dataGridView1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 212</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="dataGridView1.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="dataGridView1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>664, 184</value>
+  </data>
+  <data name="dataGridView1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.Name" xml:space="preserve">
+    <value>dataGridView1</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="kat_com.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 136</value>
+  </data>
+  <data name="kat_com.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 23</value>
+  </data>
+  <data name="kat_com.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;kat_com.Name" xml:space="preserve">
+    <value>kat_com</value>
+  </data>
+  <data name="&gt;&gt;kat_com.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;kat_com.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;kat_com.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="txtHind.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 105</value>
+  </data>
+  <data name="txtHind.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 23</value>
+  </data>
+  <data name="txtHind.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txtHind.Name" xml:space="preserve">
+    <value>txtHind</value>
+  </data>
+  <data name="&gt;&gt;txtHind.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtHind.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtHind.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="txtKogus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 71</value>
+  </data>
+  <data name="txtKogus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 23</value>
+  </data>
+  <data name="txtKogus.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtKogus.Name" xml:space="preserve">
+    <value>txtKogus</value>
+  </data>
+  <data name="&gt;&gt;txtKogus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtKogus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtKogus.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="txtNimetus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 40</value>
+  </data>
+  <data name="txtNimetus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 23</value>
+  </data>
+  <data name="txtNimetus.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;txtNimetus.Name" xml:space="preserve">
+    <value>txtNimetus</value>
+  </data>
+  <data name="&gt;&gt;txtNimetus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtNimetus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtNimetus.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="vali_pilt_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>376, 171</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="vali_pilt_btn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="vali_pilt_btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 22</value>
+  </data>
+  <data name="vali_pilt_btn.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="vali_pilt_btn.Text" xml:space="preserve">
+    <value>Vali pilt</value>
+  </data>
+  <data name="&gt;&gt;vali_pilt_btn.Name" xml:space="preserve">
+    <value>vali_pilt_btn</value>
+  </data>
+  <data name="&gt;&gt;vali_pilt_btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vali_pilt_btn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;vali_pilt_btn.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="kustuta_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 171</value>
+  </data>
+  <data name="kustuta_btn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="kustuta_btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 22</value>
+  </data>
+  <data name="kustuta_btn.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="kustuta_btn.Text" xml:space="preserve">
+    <value>Kustuta</value>
+  </data>
+  <data name="&gt;&gt;kustuta_btn.Name" xml:space="preserve">
+    <value>kustuta_btn</value>
+  </data>
+  <data name="&gt;&gt;kustuta_btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;kustuta_btn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;kustuta_btn.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="uuenda_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>237, 171</value>
+  </data>
+  <data name="uuenda_btn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="uuenda_btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 22</value>
+  </data>
+  <data name="uuenda_btn.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="uuenda_btn.Text" xml:space="preserve">
+    <value>Uuenda</value>
+  </data>
+  <data name="&gt;&gt;uuenda_btn.Name" xml:space="preserve">
+    <value>uuenda_btn</value>
+  </data>
+  <data name="&gt;&gt;uuenda_btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;uuenda_btn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;uuenda_btn.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lisa_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 171</value>
+  </data>
+  <data name="lisa_btn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="lisa_btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 22</value>
+  </data>
+  <data name="lisa_btn.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="lisa_btn.Text" xml:space="preserve">
+    <value>Lisa</value>
+  </data>
+  <data name="&gt;&gt;lisa_btn.Name" xml:space="preserve">
+    <value>lisa_btn</value>
+  </data>
+  <data name="&gt;&gt;lisa_btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lisa_btn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lisa_btn.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="toode_nim.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="toode_nim.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 40</value>
+  </data>
+  <data name="toode_nim.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 15</value>
+  </data>
+  <data name="toode_nim.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="toode_nim.Text" xml:space="preserve">
+    <value>Toode nimetus</value>
+  </data>
+  <data name="&gt;&gt;toode_nim.Name" xml:space="preserve">
+    <value>toode_nim</value>
+  </data>
+  <data name="&gt;&gt;toode_nim.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toode_nim.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;toode_nim.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="toode_kogus.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="toode_kogus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 74</value>
+  </data>
+  <data name="toode_kogus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 15</value>
+  </data>
+  <data name="toode_kogus.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="toode_kogus.Text" xml:space="preserve">
+    <value>Toode kogus</value>
+  </data>
+  <data name="&gt;&gt;toode_kogus.Name" xml:space="preserve">
+    <value>toode_kogus</value>
+  </data>
+  <data name="&gt;&gt;toode_kogus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toode_kogus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;toode_kogus.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="toode_hind.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="toode_hind.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 108</value>
+  </data>
+  <data name="toode_hind.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 15</value>
+  </data>
+  <data name="toode_hind.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="toode_hind.Text" xml:space="preserve">
+    <value>Toode hind</value>
+  </data>
+  <data name="&gt;&gt;toode_hind.Name" xml:space="preserve">
+    <value>toode_hind</value>
+  </data>
+  <data name="&gt;&gt;toode_hind.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toode_hind.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;toode_hind.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="kat.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="kat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 136</value>
+  </data>
+  <data name="kat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 15</value>
+  </data>
+  <data name="kat.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="kat.Text" xml:space="preserve">
+    <value>Kategooria</value>
+  </data>
+  <data name="&gt;&gt;kat.Name" xml:space="preserve">
+    <value>kat</value>
+  </data>
+  <data name="&gt;&gt;kat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;kat.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;kat.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>376, 26</value>
+  </data>
+  <data name="pb.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="pb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 131</value>
+  </data>
+  <data name="pb.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;pb.Name" xml:space="preserve">
+    <value>pb</value>
+  </data>
+  <data name="&gt;&gt;pb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pb.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pb.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="keel_com.Location" type="System.Drawing.Point, System.Drawing">
+    <value>677, 1</value>
+  </data>
+  <data name="keel_com.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 23</value>
+  </data>
+  <data name="keel_com.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;keel_com.Name" xml:space="preserve">
+    <value>keel_com</value>
+  </data>
+  <data name="&gt;&gt;keel_com.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;keel_com.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;keel_com.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 450</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
